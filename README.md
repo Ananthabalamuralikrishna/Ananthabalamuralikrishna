@@ -52,4 +52,4 @@ Churn prediction pipeline that compares Random Forest and CNN models, evaluated 
 - 💼 LinkedIn: https://www.linkedin.com/in/anantha-bala-murali-krishna/?isSelfProfile=true
 - 📧 Email: bbalamuralikrishna23527@gmail.com
 
-⭐ Open to full stack and software developer opportunities.
+⭐ Open to full stack and software developer opportunities across India and willing to relocate.
