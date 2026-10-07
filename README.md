@@ -1,5 +1,5 @@
 # Hi, I'm Bala Murali Krishna 👋
-### Fresh B.Tech CS (AI) graduate building full stack apps and looking for my first software developer role
+### Fresh B.Tech CSE (AI) graduate building full stack apps and looking for my first software developer role
 
 I enjoy turning ideas into working products, from Spring Boot backends to React and Angular frontends. I also have hands-on experience with machine learning through an AI internship.
 
