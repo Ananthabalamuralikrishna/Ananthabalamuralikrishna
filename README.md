@@ -43,7 +43,7 @@ Churn prediction pipeline that compares Random Forest and CNN models, evaluated 
 
 ## 🎓 Education
 
-**B.Tech in Computer Science (Artificial Intelligence)**, Parul Institute of Engineering and Technology (2021 – 2025)
+**B.Tech in Computer Science and Engineering (Artificial Intelligence)**, Parul Institute of Engineering and Technology (2021 – 2025)
 
 ---
 
